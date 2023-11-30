@@ -1,0 +1,707 @@
+price: 3290000
+area: 2145
+bedrooms: 3
+bathrooms: 1
+stories: 2
+mainroad: yes
+basement: yes
+prefarea: yes
+furnishingstatus: furnished
+// all parameters used to generate this sample
+🏡 Just Listed! 🏡
+
+📍 Location: Ideal Residential Area
+💲 Price: $3,290,000
+📐 Area: 2,145 sqft
+🛏 Bedrooms: 3
+🛁 Bathrooms: 1
+🏢 Stories: 2
+🛣 Main Road View: Yes
+🔲 Basement: Yes
+🌳 Preferred Area: Yes
+🪑 Furnishing Status: Fully Furnished
+
+Welcome to your dream home! This stunning property has it all, and we're excited to show you why it's perfect for you. 
+
+With spacious living areas spread across two stories, this home offers the ideal balance between modern design and cozy comfort. The three bedrooms provide ample space for the whole family, while the furnished interiors give it a stylish and welcoming feel.
+
+Convenience is key, and this home ticks all the boxes. Located in an ideal residential area, you'll have easy access to all amenities, schools, and shopping centers. Plus, being on the main road means your daily commute will be a breeze.
+
+Looking for extra storage space or a place to unwind? The basement provides the perfect solution, allowing you to utilize the area to suit your needs. Whether it's a home office, entertainment room, or even a gym – the possibilities are endless!
+
+Say goodbye to compromise. This property also offers a preferred area, ensuring absolute tranquility and privacy for you and your loved ones.
+
+Don't miss out on this incredible opportunity to own your dream home. Contact us today to schedule a viewing and make this house your new sanctuary. Act fast, as homes like these sell quickly!
+
+#DreamHome #ForSale #HomeSweetHome #LuxuryLiving #LiveInStyle #IdealLocation #SpaciousLiving #ModernDesign #ConvenientLiving #Unwind #Tranquility #InstaHome #HouseHunting #PropertyForSale
+------------------------ // divider
+
+price: 2380000
+area: 3264
+bedrooms: 2
+bathrooms: 1
+stories: 1
+mainroad: yes
+furnishingstatus: unfurnished
+// all parameters used to generate this sample
+🏡 Looking for the perfect home? We've got just the place for you! ✨
+
+🌟 Introducing our stunning house for sale in the heart of town, featuring an unbeatable combination of style, convenience, and affordability.
+
+🔑 With a price of just $2,380,000, this is an incredible opportunity to own your dream home. Don't miss out!
+
+🌿 With a spacious area of 3,264 square feet, this house offers ample room for you to personalize and create the perfect living space for your family.
+
+💤 The two cozy bedrooms provide a peaceful retreat after a long day, allowing you to recharge and relax in privacy.
+
+🛀 Refresh and rejuvenate in the luxurious bathroom, designed with comfort and elegance in mind.
+
+🏡 This single-story gem is not only conveniently located, but it is also situated near the main road, ensuring easy access to all the amenities and services the area has to offer. Convenience at your fingertips!
+
+🪑 While currently unfurnished, this allows you the opportunity to express your personal style and bring your own unique touch to every corner of this remarkable house.
+
+✨ Don't hesitate! Take the first step towards your dream home today! Contact us for more information and to schedule a viewing. We can't wait to show you all the amazing features this house has to offer.
+
+🌟 Make this house your home sweet home! 🏡💫
+------------------------ // divider
+
+price: 4200000
+area: 3520
+bedrooms: 3
+bathrooms: 1
+stories: 2
+mainroad: yes
+prefarea: yes
+furnishingstatus: semi-furnished
+// all parameters used to generate this sample
+🏡 For Sale: Your Dream Home 🏡
+
+🔑 Price: $4,200,000 
+📐 Area: 3520 sq. ft.
+🛌 Bedrooms: 3
+🛀 Bathrooms: 1
+✨ Furnishing Status: Semi-Furnished
+🏘️ Stories: 2
+🛣️ Main Road: Yes
+🌳 Preferred Location: Yes
+
+Looking for your perfect abode? Look no further! This stunning home ticks all the right boxes, and you'll be amazed at what it has to offer!
+
+✨ Dive into Luxury: Experience a spacious living area with three well-appointed bedrooms, offering ample space for you and your loved ones. The semi-furnished status means you can easily personalize the interior to match your unique style and preferences.
+
+🌿 Nature's Paradise: Embrace the beauty of a prime location with close proximity to the main road, providing easy access to all major amenities and facilities. Additionally, the preferred area ensures peace and tranquility, allowing you to be away from the hustle and bustle of the city.
+
+🏡 Double the Charm: With two stories, this home provides a sense of privacy and separation. Feel free to entertain guests or enjoy peaceful relaxation, all within the comfort of your own space.
+
+💰 Great Investment Opportunity: This property is not only the perfect place to call home but also an excellent investment opportunity. The prime location, coupled with the promising growth potential, guarantees a smart investment that will appreciate over time.
+
+📲 Don't miss out on this rare gem! Call us today to schedule a viewing and make this beautiful house your new sanctuary. Your dream home awaits! 💫
+
+#ForSale #DreamHome #LuxuryLiving #InvestmentOpportunity #HomeSweetHome
+------------------------ // divider
+
+price: 3675000
+area: 3630
+bedrooms: 2
+bathrooms: 1
+stories: 1
+mainroad: yes
+basement: yes
+furnishingstatus: furnished
+// all parameters used to generate this sample
+🏡 For Sale: Beautifully Furnished House 🏡
+
+💰 Price: $3,675,000 🌟
+🔹 Area: 3,630 sq.ft. 🌳
+🛏 Bedrooms: 2 🌙
+🚽 Bathrooms: 1 💦
+🏠 Stories: 1 🌞
+🛣 Main Road Accessibility: Yes 🚗
+🏢 Basement: Yes 🏋️
+🪑 Furnishing Status: Fully Furnished 🛋
+
+Welcome to your dream home! This stunning house offers an incredible opportunity for those seeking a comfortable and stylish living space. 
+
+✨ Step inside and be captivated by the spaciousness and warmth that this house provides. With 3,630 sq.ft. of living area, you'll have ample room to create precious memories with your loved ones.
+
+💤 The two luxurious bedrooms offer a peaceful sanctuary for rest and relaxation after a long day. You'll wake up feeling refreshed and rejuvenated, ready to take on the world.
+
+🛀 The elegantly designed bathroom boasts modern fixtures and finishes, ensuring your daily self-care routine is a truly indulgent experience.
+
+☀️ Enjoy the convenience of having all your living spaces on one level with the single-story layout. It offers seamless flow and easy access to all areas of the house.
+
+🛣 Located by the main road, this house is easily accessible, making commuting and traveling a breeze. Say goodbye to long commutes and embrace a more convenient lifestyle.
+
+🏢 The basement is an added bonus, providing extra storage space or the potential to transform it into a personalized gym or entertainment area. The possibilities are endless!
+
+🪑 The best part? This house comes fully furnished with tasteful and high-quality furniture. Simply move in and start enjoying your new home from day one.
+
+Don't miss out on this incredible opportunity to own a beautifully furnished house in a prime location. Contact us today to schedule your viewing and make this dream home yours! 🌟💫
+
+#ForSale #DreamHome #LuxuryLiving #FullyFurnished #ConvenientLiving #PrimeLocation #HomeSweetHome
+------------------------ // divider
+
+price: 6615000
+area: 4000
+bedrooms: 3
+bathrooms: 2
+stories: 2
+mainroad: yes
+basement: yes
+airconditioning: yes
+parking: 1
+furnishingstatus: semi-furnished
+// all parameters used to generate this sample
+🏡💎 Welcome to your dream home! 💎🏡
+
+Just imagine waking up every morning in this exquisite house. Priced at only $6,615,000, this stunning property offers incredible value for money. 
+
+With a spacious area of 4,000 square feet, there is plenty of room for you and your loved ones to stretch out and enjoy. The 3 bedrooms provide ample space for a growing family or hosting guests, while the 2 bathrooms ensure everyone's comfort and convenience.
+
+One of the highlights of this house is its 2 stories, adding a grand and elegant touch to the overall aesthetic. And oh, did we mention that it's located right by the main road, making commuting a breeze?
+
+As you step inside, you'll be pleased to find a basement, providing extra storage space or the potential for a home office or entertainment area. Plus, with air conditioning to keep you cool during those warm summer months, you'll always be comfortable no matter the weather.
+
+Worried about parking? Fear not! This property includes a designated parking space, so you can come home from work or errands without the hassle of searching for a spot.
+
+The icing on the cake? This fabulous house comes semi-furnished, giving you a head start in making it your own personalized oasis.
+
+Don't miss out on this incredible opportunity to own your dream home. Contact us today to set up a viewing and make this beautiful house yours! ✨💫
+
+#DreamHome #LuxuryLiving #HouseForSale #RealEstateInvestment
+------------------------ // divider
+
+price: 6090000
+area: 8372
+bedrooms: 3
+bathrooms: 1
+stories: 3
+mainroad: yes
+airconditioning: yes
+parking: 2
+furnishingstatus: unfurnished
+// all parameters used to generate this sample
+🏡 Home Sweet Home Alert 🏡
+
+Calling all house-hunters! We have a fantastic property that checks all your boxes! 📦 
+
+🌟 Prime Location: Situated on the main road, this stunning house offers unparalleled convenience and easy access to all major amenities. 🛣️
+
+🌟 Spacious & Stylish: With a generous area of 8372 sqft, this 3-bedroom home provides ample space for your family to thrive and grow. Each room is tastefully designed, offering a blend of comfort and functionality. 😍
+
+🌟 Tranquil Living: Nestled on three levels, this home provides a peaceful ambiance where you can relax and unwind after a long day. 🌳
+
+🌟 Modern Amenities: Stay cool and comfortable during those hot summer days with the built-in air conditioning system. Take advantage of the convenience of having two dedicated parking spaces. 🚗🚗
+
+🌟 Flexibility: Whether you want to furnish your new home to match your unique style or leave it unfurnished, this property gives you the freedom to make it your own. 💫
+
+💰 Priced at $6,090,000, this extraordinary home is a steal! Don't miss out on this amazing opportunity to own your dream house. 🤩
+
+↪️ Hurry up and contact us now to schedule a viewing 📞🗓️ This home won't last long on the market!
+
+#NewListing #DreamHome #ForSale #PrimeLocation #SpaciousLiving #ModernLiving #Don'tMissOut #HouseHunting
+------------------------ // divider
+
+price: 3850000
+area: 7152
+bedrooms: 3
+bathrooms: 1
+stories: 2
+mainroad: yes
+airconditioning: yes
+furnishingstatus: furnished
+// all parameters used to generate this sample
+🏠 For Sale: The Perfect Home for Your Family! 🌟
+
+🔑 Price: $3,850,000
+📐 Area: 7,152 sq. ft.
+🛏️ Bedrooms: 3
+🛁 Bathrooms: 1
+🏘️ Stories: 2
+
+💥 This Spacious and Cozy Home Has It All! 💥
+
+✅ Prime Location: Situated on the Main Road, this house offers easy accessibility and convenience for your daily commute.
+
+❄️ Air Conditioning: Beat the heat and enjoy a cool, comfortable atmosphere throughout the house, making it ideal for those hot summer days.
+
+🛋️ Furnished Bliss: Move right in and experience the joy of owning a fully furnished home. No need to worry about buying new furniture!
+
+🏡 Perfectly Designed: With 2 stories, this house allows for an optimal use of space, providing ample room for your family to grow and create lasting memories.
+
+🌳 Outdoor Oasis: Embrace the outdoors with a well-maintained garden area, perfect for enjoying leisurely evenings or hosting gatherings.
+
+🛏️ Restful Retreats: Three spacious bedrooms offer warm and inviting spaces for you and your loved ones to relax and unwind after a long day.
+
+🚿 Refreshing Bathroom: Indulge in a rejuvenating shower or a soothing bath in the beautifully designed bathroom.
+
+🌇 Endless Possibilities: Whether it's entertaining guests, spending quality time with family, or simply enjoying the comfort of your new home, this property has it all.
+
+📞 Don't miss out on this incredible opportunity! Contact us now to arrange a viewing and make this dream home yours! 🏡✨
+
+#ForSale #DreamHome #SpaciousLiving #FamilyFriendly #PrimeLocation #ModernLiving
+------------------------ // divider
+
+price: 3780000
+area: 2856
+bedrooms: 3
+bathrooms: 1
+stories: 3
+mainroad: yes
+prefarea: yes
+furnishingstatus: furnished
+// all parameters used to generate this sample
+🏡 NEW LISTING ALERT! 🏡
+
+✨ Your dream home awaits! ✨
+
+🔑 Introducing this stunning 3-bedroom house nestled in a prime location. Priced at $3,780,000, this home offers amazing value for its incredible features!
+
+💫 With a spacious area of 2856 sqft, you'll have ample room to relax, entertain, and create cherished memories.
+
+🛏️ Retreat to one of the three cozy bedrooms, providing ultimate comfort and privacy for you and your loved ones.
+
+🛀 A well-appointed bathroom ensures a space where you can unwind and rejuvenate after a long day.
+
+🏢 Spread across three beautiful stories, this house captures the essence of modern living with its impressive design and layout.
+
+🛣️ Conveniently situated near the main road, this property offers easy access to transportation, making your daily commute a breeze.
+
+🌳 Do you prefer a peaceful and preferred area? Look no further! This house is located in a highly desirable neighborhood, offering tranquility and a sense of community.
+
+🪑 Step into the furnished interiors and instantly fall in love with the carefully chosen furnishings that create an inviting atmosphere throughout.
+
+💰 Don't miss out on this incredible opportunity to own a fantastic home at an outstanding price! Contact us today to schedule a private tour and make this dream house your own.
+
+📞 Call now: XXX-XXXXXXX
+
+✅ Act fast, as homes like these don't stay on the market for long! 
+
+#DreamHome #ForSale #LuxuryLiving #HomeSweetHome
+------------------------ // divider
+
+price: 6300000
+area: 9000
+bedrooms: 3
+bathrooms: 1
+stories: 1
+mainroad: yes
+basement: yes
+parking: 1
+prefarea: yes
+furnishingstatus: furnished
+// all parameters used to generate this sample
+🏡 FOR SALE: Your Dream Home is Here! 💫
+
+🔑 Looking for a cozy and inviting home? Look no further! This gem boasts an impressive set of features that are sure to make your heart skip a beat. 
+
+💰 The price? A steal at just 6300000! With an affordable price like this, you can invest in your dream home without breaking the bank.
+
+📐 Spread out and relax in the spacious 9000 sq.ft area, offering plenty of room for you and your loved ones to create memories that will last a lifetime.
+
+🛏️ You'll find 3 comfortable bedrooms here, providing ample space for rest and rejuvenation. From peaceful nights to blissful mornings, this home has you covered.
+
+🚽 Additionally, there is a well-maintained bathroom to cater to your daily needs. No more fighting over the mirror or rushing to get ready in the morning!
+
+📚 Simplify your life with a convenient single-story layout. Say goodbye to stairs and hello to easy access to every corner of your new abode!
+
+🛣️ Located on a main road, this property ensures effortless commuting and quick access to all the essentials. Enjoy the convenience of being just minutes away from everything you need.
+
+🚪 The added bonus? A spacious basement that offers endless possibilities. Turn it into a home gym, entertainment area, or use it for extra storage – the choice is yours!
+
+🚗 Never worry about parking woes again – this charming home comes with a dedicated parking spot, making your daily life hassle-free.
+
+✨ Looking for an extra special touch? This home is in a preferred area, guaranteeing a peaceful and sought-after neighborhood for you and your family.
+
+🛋️ And let's not forget about the furnished status! Step inside and find a stylishly furnished home ready to welcome you with open arms. Move-in and start enjoying all the comforts right away!
+
+💫 Don't miss out on this incredible opportunity to make this house your forever home. Call now and let's make your dreams come true!
+
+#DreamHome #ForSale #PerfectProperty #HomeSweetHome #InvestInYourFuture
+------------------------ // divider
+
+price: 3500000
+area: 3480
+bedrooms: 3
+bathrooms: 1
+stories: 1
+airconditioning: yes
+furnishingstatus: unfurnished
+// all parameters used to generate this sample
+🏡✨ Dreamy Home for Sale! ✨🏡
+
+📍 Location: The perfect blend of comfort and convenience in a peaceful neighborhood.
+
+💲 Price: A steal at only $3,500,000! Your dream home is within reach.
+
+📏 Size: Spacious living with a generous area of 3,480 sqft. Plenty of room for your family and friends to enjoy.
+
+🛌 Bedrooms: Three cozy bedrooms that will provide privacy and comfort for a good night's sleep.
+
+🛀 Bathrooms: A modern bathroom that caters to all your needs, making your daily routine an absolute breeze.
+
+🏡 Stories: Single-story living, creating an effortless flow and easy accessibility throughout the home.
+
+❄️ Air Conditioning: Beat the heat with the luxury of air conditioning throughout the entire house. Stay cool all year round!
+
+🪑 Furnishing Status: This elegant home is ready for your personal touch. Let your creative vision come to life in this blank canvas.
+
+🌳 Outdoor Space: A charming backyard that offers endless possibilities for outdoor activities, gardening, and relaxation.
+
+💼 Nearby amenities: Enjoy easy access to schools, shopping centers, parks, and all the conveniences of city living at your fingertips.
+
+🌟 Don't miss the chance to own your dream home! Contact us now to schedule a visit and experience the incredible features this home has to offer. Your dream lifestyle awaits! 🌟
+
+#DreamHomeForSale #LuxuryLiving #HomeSweetHome #RealEstateGoals #NewListing #YourDreamsComeTrue
+------------------------ // divider
+
+price: 3220000
+area: 4320
+bedrooms: 3
+bathrooms: 1
+stories: 1
+parking: 1
+furnishingstatus: unfurnished
+// all parameters used to generate this sample
+🏡 For Sale: Your Dream Home! 🏡
+
+🌟 Price: $3,220,000 🌟
+🌸 Area: 4,320 sqft 🌸
+🛏️ Bedrooms: 3 🛏️
+🚿 Bathrooms: 1 🚿
+🏡 Stories: 1 🏡
+🚗 Parking: 1 🚗
+🏢 Furnishing Status: Unfurnished 🏢
+
+Fall in love with this stunning home that offers the perfect blend of comfort and style! ✨
+
+✨ With a spacious area of 4,320 sqft, you'll have plenty of room to create a lifetime of cherished memories with your loved ones. 🌸
+
+✨ The 3 beautifully designed bedrooms provide an oasis of tranquility, ensuring a good night's sleep and a refreshed start to your day. 🛏️
+
+✨ One well-appointed bathroom is all you need for your daily self-care routine, keeping things simple and hassle-free. 🚿
+
+✨ The convenience of a single-story layout means easy navigation throughout the entire space, making it perfect for all age groups. 🏡
+
+✨ Never worry about parking with your very own dedicated space, offering the utmost convenience for you and your guests. 🚗
+
+✨ As an unfurnished home, you have the opportunity to unleash your creativity and bring your own personal touch to every corner and make it truly yours. 🏢
+
+Seize this opportunity to make this house your forever home! ✨💫
+
+📞 Don't wait, call now for more details and schedule your exclusive tour! 📞
+
+#DreamHome #ForSale #SpaciousLiving #Convenience #Unfurnished #MakeItYours #CherishedMemories
+------------------------ // divider
+
+price: 5950000
+area: 6254
+bedrooms: 4
+bathrooms: 2
+stories: 1
+mainroad: yes
+basement: yes
+parking: 1
+prefarea: yes
+furnishingstatus: semi-furnished
+// all parameters used to generate this sample
+🏡 Looking for your dream home? Look no further! We present you with an impeccable opportunity to own a stunning house with exceptional features and a prime location. 
+
+💰 With a price of just 5,950,000, this home offers amazing value for your money. It's an investment that's worth every penny!
+
+📐 Spread across a sprawling area of 6,254 square feet, this house provides ample space for you and your loved ones to live and thrive. 
+
+🛌🛌🛌🛌 Featuring 4 spacious bedrooms, you'll have plenty of room for your family and guests. Each bedroom is designed with comfort and relaxation in mind, providing a peaceful sanctuary at the end of a long day.
+
+🛀🛀 Two well-appointed bathrooms make getting ready in the morning a breeze. You'll love the modern fixtures and thoughtful design that ensures a truly invigorating experience.
+
+🏡 This single-story abode offers seamless convenience and easy accessibility. No more climbing stairs! 
+
+🛣️ Situated near the main road, you'll enjoy easy access to transportation, making your daily commute a breeze.
+
+🏠 With a basement included, you'll have extra space for storage, a playroom, or a home office. The possibilities are endless!
+
+🚗 Park your car effortlessly in the dedicated parking space provided. No more searching for a spot!
+
+🌟 Located in a preferred area, this home ensures a peaceful and secure living environment. You'll be surrounded by all the conveniences you desire.
+
+🏡 Furnished to perfection, this house offers the ideal blend of comfort and style. The semi-furnished status allows you to add your personal touch and truly make it your own.
+
+✨ Don't miss out on this incredible opportunity to own a house that checks all the boxes. Contact us now to schedule a viewing and make this dream home yours! ✨
+------------------------ // divider
+
+price: 3115000
+area: 3850
+bedrooms: 3
+bathrooms: 1
+stories: 2
+mainroad: yes
+furnishingstatus: unfurnished
+// all parameters used to generate this sample
+🏡 Looking for a dream home? Look no further! 🌟
+
+💰 Price: $3,115,000
+🏠 Area: 3,850 sqft
+🛏️ Bedrooms: 3
+🛁 Bathrooms: 1
+🏢 Stories: 2
+🚗 Main road location: Yes
+🪑 Furnishing status: Unfurnished
+
+✨ Welcome to your perfect new abode that ticks all the boxes! This stunning house offers an array of amazing features that will make you fall in love at first sight. 💛
+
+🌿 Spacious Living: With an impressive area of 3,850 square feet, this home provides ample space for you and your loved ones to stretch out and relax. From comfortable gatherings to cozy movie nights, there's room for it all! 🌟
+
+🌟 Stylish Bedrooms: This home boasts 3 well-appointed bedrooms, giving each family member their own private haven. You'll wake up feeling refreshed in these tranquil spaces, ready to take on the day! 💤
+
+🚿 Refreshing Bathrooms: Picture yourself indulging in a refreshing shower or a relaxing soak in the luxurious bathroom. It's the perfect place to unwind after a long day, giving you a little slice of paradise right at home! 🛀
+
+🌞 Natural Light: Sunlight floods through the large windows, casting a warm glow throughout the house, making every day feel bright and cheerful. Enjoy the benefits of a home that's always filled with natural light! ☀️
+
+🏢 Convenient Location: Perfectly positioned on the main road, this home ensures easy access to all essential amenities, making your daily commute a breeze. Whether it's schools, shops, or parks, everything is right at your doorstep! 🏞️
+
+🪑 Personal Touch: This home comes unfurnished, giving you the opportunity to design and decorate it to perfectly match your unique style and taste. Create a space that truly reflects who you are! 🎨
+
+🔑 Don't miss out on this incredible opportunity to own a home that offers exceptional value, style, and comfort. Make this dream house your reality and start making unforgettable memories today! ✨💫
+
+📞 Contact us now to schedule a viewing! Don't wait, because this gem won't be on the market for long! 💼📩
+------------------------ // divider
+
+price: 5460000
+area: 6210
+bedrooms: 4
+bathrooms: 1
+stories: 4
+mainroad: yes
+guestroom: yes
+airconditioning: yes
+furnishingstatus: furnished
+// all parameters used to generate this sample
+🏡 Calling all home seekers! 🏡
+
+Introducing the perfect dream house that has it all! 😍🏠 This remarkable property is now available for sale at a remarkable price of just $5,460,000! 💰
+
+With a sprawling area of 6,210 square feet, this house offers abundant space to create cherished memories with your loved ones. 🌟✨ Boasting 4 spacious bedrooms, everyone in your family can have their own personal retreat. 🛌 The single bathroom guarantees convenience while the luxury of 4 stories allows for privacy and ample room for creativity. 🏰
+
+Situated right by the main road, you'll have easy access to all the essentials, from groceries to entertainment. 🛣️🏪 Plus, imagine the convenience of welcoming guests to their own comfortable guestroom. 🏡🛋️
+
+Worried about the sweltering heat? Say goodbye to discomfort with the included air conditioning system. 🌬️❄️ And guess what? This property comes fully furnished, saving you the hassle of shopping for new furniture. 🛋️🏠
+
+Don't miss out on this incredible opportunity to own your dream house with all the features you desire! 💫✨ Message us now to schedule a viewing and make this fabulous property yours. 📲💼✨
+
+#houseforsale #dreamhome #foreverhome #propertylisting #luxuryliving #LovinTheFeatures
+------------------------ // divider
+
+price: 5215000
+area: 7200
+bedrooms: 3
+bathrooms: 1
+stories: 2
+mainroad: yes
+guestroom: yes
+basement: yes
+parking: 1
+prefarea: yes
+furnishingstatus: furnished
+// all parameters used to generate this sample
+🏠 Looking for your dream home? Look no further! This beautifully furnished house is the perfect blend of comfort and style. 💫
+
+💰 At an incredible price of just $5,215,000, this home offers amazing value for your investment. 💵
+
+📐 Boasting a spacious area of 7,200 square feet, you'll have all the room you need to live, work, and entertain.
+
+🛌 With 3 cozy bedrooms, you'll have plenty of space for yourself and your loved ones. Rest and recharge in these comfortable retreats. 💤
+
+🛀 Pamper yourself in the luxurious bathroom, exuding elegance and offering a tranquil haven for relaxation after a long day.
+
+🏢 This 2-story home is designed to perfection, adding a touch of grandeur to your everyday living experience. 🌟
+
+🛣️ Located near the main road, you'll have easy access to all major destinations, making commuting a breeze.
+
+👥 Hosting guests will be a delight, thanks to the convenient guest room. Your loved ones will feel right at home whenever they come to visit. 🏡
+
+🏚️ The basement adds extra versatility and storage space, allowing you to keep your belongings organized and in place.
+
+🚗 Park your car worry-free with the included parking space. Convenience at your fingertips!
+
+🌳 Situated in the preferred area, you'll enjoy the peace and tranquility of the neighborhood, making this house a perfect haven for your family. 🌸
+
+Don't miss this incredible opportunity to own a beautifully furnished home in such a sought-after location. Contact us today to book a viewing. You deserve to live in absolute luxury! 💫✨ #DreamHome #LuxuryLiving #HomeSweetHome
+------------------------ // divider
+
+price: 4007500
+area: 3460
+bedrooms: 4
+bathrooms: 1
+stories: 2
+mainroad: yes
+airconditioning: yes
+furnishingstatus: semi-furnished
+// all parameters used to generate this sample
+🏠 Home Sweet Home! 🏠
+
+🔑 Looking for a dream house? Look no further! This stunning property has everything you need and more. 💫
+
+📍Located in a prime neighborhood, this spacious 4-bedroom, 1-bathroom house offers a generous area of 3460 square feet, giving you ample room to create unforgettable memories with your loved ones.
+
+🌞 Boasting two stories, this house provides a wonderful balance of privacy and togetherness. Whether it's enjoying a cozy night in the family room or hosting gatherings in the spacious living area, this home has the perfect setup for every occasion.
+
+🛣️ Situated near the main road, commuting has never been this convenient. Plus, imagine the pleasant morning strolls or evening jogs you can enjoy just steps away from your doorstep. 🌳
+
+🌬️ Stay comfortable all year round with the added luxury of air conditioning throughout the house. Say goodbye to those sweltering summer months!
+
+🛋️ The house comes semi-furnished, allowing you the flexibility to personalize your space and make it truly your own. Let your creativity flow as you transform this house into your dream oasis.
+
+💰 Priced at just $4,007,500, this incredible property offers tremendous value for its size and location. Don't miss out on this unbeatable opportunity to own your dream home today!
+
+📞 Call now to schedule a viewing and make this house your very own. Act fast, as this gem won't stay on the market for long! 🏡💚
+
+#DreamHome #ForSale #SpaciousLiving #ConvenientLocation #ComfortableLiving
+------------------------ // divider
+
+price: 2730000
+area: 6800
+bedrooms: 2
+bathrooms: 1
+stories: 1
+mainroad: yes
+furnishingstatus: unfurnished
+// all parameters used to generate this sample
+🏠 Just listed! Check out this amazing house for sale! 😍
+
+🌟 Price: $2,730,000
+🌟 Area: 6,800 sq.ft.
+🌟 Bedrooms: 2
+🌟 Bathrooms: 1
+🌟 Stories: 1
+
+📍 Situated on a prime location with main road access, this house offers unparalleled convenience and easy commuting. 🚗💨
+
+✨ The spacious area of 6,800 sq.ft. provides ample room for your family and all your belongings. 🏡💫
+
+💤 Unfurnished, giving you the freedom to decorate and create your dream home that perfectly reflects your unique style and taste. 🎨✨
+
+💰 The price tag of $2,730,000 reflects the incredible value and potential this property holds for a lucky buyer like yourself. 💸💫
+
+🛁 With one bathroom on offer, you'll enjoy your daily routines in a clean and well-maintained space. 🙌💦
+
+🔆 The single-story layout of this house ensures easy navigation and a seamless flow between each room. 🏡✨
+
+💪 Don't miss out on this opportunity! Contact us today to schedule a viewing and make this dream house yours! 📞🔑
+
+#forsale #dreamhome #realestate #househunting #property #investment #luxuryliving #homeownership
+------------------------ // divider
+
+price: 3143000
+area: 4500
+bedrooms: 3
+bathrooms: 1
+stories: 2
+mainroad: yes
+airconditioning: yes
+furnishingstatus: unfurnished
+// all parameters used to generate this sample
+🏠 FOR SALE 🏠
+
+📍 Location: Downtown Blissville
+💲 Price: $3,143,000
+📏 Area: 4,500 sqft
+🛏 Bedrooms: 3
+🛀 Bathrooms: 1
+📚 Stories: 2
+🛣 Main Road Accessibility: Yes
+❄️ Air Conditioning: Yes
+🪑 Furnishing Status: Unfurnished
+
+💫 Welcome to your dream home in Downtown Blissville! This magnificent property truly offers the perfect combination of luxury and convenience. Let's dive into its incredible features:
+
+1️⃣ Spacious Layout: With a sprawling area of 4,500 sqft, this home provides ample room for you and your loved ones to live and grow. Each space has been thoughtfully designed to maximize comfort and functionality.
+
+2️⃣ Serene Bedrooms: Rest and rejuvenate in the three tranquil bedrooms, offering a peaceful haven for relaxation. Perfectly sized for creating personalized sanctuaries and ensuring everyone has their own private space.
+
+3️⃣ Modern Bathroom: Enjoy a refreshing daily routine in the sleek and stylish bathroom. Start your mornings off right with its top-notch fixtures and contemporary design.
+
+4️⃣ Expansive Stories: This two-story home offers an abundance of space and allows for seamless flow between different living areas. Embrace an open concept lifestyle and create unforgettable memories in the inviting atmosphere.
+
+5️⃣ Prime Location: Situated right on the main road, this property allows for easy access to all the amenities downtown Blissville has to offer. Say goodbye to long commutes and embrace a vibrant urban lifestyle.
+
+6️⃣ Year-round Comfort: Stay cool and comfortable throughout the year with the added bonus of air conditioning. No matter the weather outside, you'll be able to relax in a pleasant indoor climate.
+
+7️⃣ Endless Potential: Whether you prefer to furnish your new home with your own personal touch or explore the world of interior design, this unfurnished property provides a blank canvas for you to unleash your creativity and create a space that truly reflects your style.
+
+Don't miss out on this incredible opportunity to make this house your dream home! Contact us today for more information and to book a private tour. 📞🏡✨
+
+#DreamHome #LuxuryLiving #Blissville #HouseForSale #ModernLiving
+------------------------ // divider
+
+price: 5873000
+area: 11460
+bedrooms: 3
+bathrooms: 1
+stories: 3
+mainroad: yes
+parking: 2
+prefarea: yes
+furnishingstatus: semi-furnished
+// all parameters used to generate this sample
+🏡 NEW LISTING ALERT! 🏡
+
+Looking for the perfect home? Look no further! This stunning house has everything you need and more. Check out its amazing features:
+
+1️⃣ Spacious: With an impressive area of 11,460 square feet, this house offers plenty of room for you and your family to live comfortably and freely.
+
+2️⃣ Cozy Bedrooms: Equipped with 3 bedrooms, this home provides a serene and private space for a good night's rest after a long day.
+
+3️⃣ Luxurious Bathroom: Indulge in relaxation with a beautifully designed bathroom that's perfect for unwinding and pampering yourself.
+
+4️⃣ Multi-story Beauty: With 3 stories, this house offers the ideal layout for maximizing space and creating distinct areas for different activities.
+
+5️⃣ Convenient Main Road Access: Traveling will be a breeze as this house is situated near a main road, providing easy access to various amenities and transportation options.
+
+6️⃣ Parking Made Easy: You'll never have to worry about finding a parking spot. This house offers 2 parking spaces, ensuring convenience and peace of mind.
+
+7️⃣ Dream Location: Located in a preferred area, this house grants you the advantage of being in a highly sought-after neighborhood, with access to top-notch schools, parks, and more.
+
+8️⃣ Semi-Furnished Elegance: This house comes with a semi-furnished status, allowing you to add your personal touch while enjoying the convenience of some pre-installed furnishings.
+
+💰 Price: $5,873,000
+
+This incredible house won't be available for long! Don't miss out on the opportunity to make it your dream home. Contact us now to schedule a viewing and take the first step towards a new chapter in your life.
+
+#DreamHome #ForSale #HouseHunting #LuxuryLiving #HomeSweetHome
+------------------------ // divider
+
+price: 4515000
+area: 3450
+bedrooms: 3
+bathrooms: 1
+stories: 2
+mainroad: yes
+basement: yes
+parking: 1
+furnishingstatus: semi-furnished
+// all parameters used to generate this sample
+🏡 For Sale: Gorgeous Semi-Furnished Home! 🏡
+
+🔑Price: $4,515,000
+
+📐Area: 3,450 sq. ft.
+
+🛌 Bedrooms: 3
+🛀 Bathrooms: 1
+
+🏢 Stories: 2
+
+✨Amazing Features✨
+
+1️⃣ Prime Location: Situated on a main road, this home offers excellent accessibility and convenience.
+
+2️⃣ Basement: Additional space for storage, a personal gym, or even a home theater. The possibilities are endless!
+
+3️⃣ Parking: Enjoy the convenience of a designated parking spot, ensuring your vehicle is safe and secure.
+
+4️⃣ Semi-Furnished: The house comes partially furnished, saving you the time and effort of furnishing the entire space.
+
+🌳 Don't miss out on this incredible opportunity! Contact us today to schedule a viewing and make this dream home yours. Act fast, as this gem won't stay on the market for long! 🌟 #ForSale #DreamHome #LuxuryLiving
+------------------------ // divider
+
