@@ -2,7 +2,7 @@
 # 1. How to mimic the style of successful Instagram posts?
 
 I add the content to the system in GPT-3.5. It helps to give a starting role for GPT Assistant. 
-So, by this one line of code, we can force GPT write in Instgram Post Style. The line of code is written below. 
+So, by this one line of code, we can force GPT to write in Instagram Post Style. The line of code is written below. 
 # "role": "system", "content": "You are a Creative Instagram Post Writer."
 
 # 2. What prompt engineering techniques can improve quality?
